@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class ReverseInt {
 
-	// 정수 내림차순으로 배치하기
+	// placing integers in descending order
 	public int reverseInt(int n){
 		String num = Integer.toString(n);
 		int[] arr = new int[num.length()];
