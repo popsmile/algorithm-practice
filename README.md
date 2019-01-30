@@ -10,6 +10,7 @@
 
 - 비밀지도: [문제보기](https://programmers.co.kr/learn/courses/30/lessons/17681?language=swift) / [풀이보기](./swift/2017KakaoBlindTest/SecretMap.swift)
 - 다트 게임: [문제보기](https://programmers.co.kr/learn/courses/30/lessons/17682?language=swift) / [풀이보기](./swift/2017KakaoBlindTest/DartGame.swift)
+- 추석 트래픽: [문제보기](https://programmers.co.kr/learn/courses/30/lessons/17676?language=swift) / [풀이보기](./swift/2017KakaoBlindTest/ThanksgivingDayTraffics.swift)
 
 <br>
 
